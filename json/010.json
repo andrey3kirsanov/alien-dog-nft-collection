@@ -1,0 +1,19 @@
+{
+  "name": "010",
+  "description": "Alien Dogs",
+  "image": "https://ipfs.io/ipfs/QmTs4E4v56wb7gAtQqd7wTHmhpCpC93E3dCaYKax4HfoAJ/010.jpg",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Awesomeness",
+      "value": "100%"
+    }
+  ]
+}

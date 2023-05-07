@@ -1,0 +1,19 @@
+{
+  "name": "008",
+  "description": "Alien Dogs",
+  "image": "https://ipfs.io/ipfs/QmTs4E4v56wb7gAtQqd7wTHmhpCpC93E3dCaYKax4HfoAJ/008.jpg",
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Size",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Awesomeness",
+      "value": "100%"
+    }
+  ]
+}
