@@ -1,7 +1,7 @@
 {
-  "name": "013",
+  "name": "015",
   "description": "Alien Dogs",
-  "image": "https://ipfs.io/ipfs/QmTs4E4v56wb7gAtQqd7wTHmhpCpC93E3dCaYKax4HfoAJ/013.jpg",
+  "image": "https://ipfs.io/ipfs/QmTs4E4v56wb7gAtQqd7wTHmhpCpC93E3dCaYKax4HfoAJ/015.jpg",
   "attributes": [
     {
       "trait_type": "Color",
@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Awesomeness",
-      "value": "100%"
+      "value": "50%"
     }
   ]
 }
